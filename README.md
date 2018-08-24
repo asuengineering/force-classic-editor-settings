@@ -7,13 +7,17 @@ Stable tag: 0.1
 
 ## Description
 
-Plugin to force the settings of the [Classic Editor](https://wordpress.org/plugins/classic-editor/) plugin to prevent the user from completely hiding the Gutenberg editor. The Classic Editor plugin will therefore always operate in "allow both editors" mode. Perfect coexistence &amp; harmony unlocked.
+Plugin to force the settings of the [Classic Editor](https://wordpress.org/plugins/classic-editor/) plugin to prevent the user from completely hiding the Gutenberg editor. The Classic Editor plugin will therefore always operate in "allow both editors" mode.
+
+Perfect coexistence &amp; harmony unlocked.
+
+Also works as a MU plugin. Place `force-settings.php` in the `mu-plugins` folder to force it to activate on your site.
 
 ## Changelog
 
 ### 0.1
 
-* Initial creation. Code inspired by the inner workings of the [Classic Editor Addon](https://wordpress.org/plugins/classic-editor-addon/) plugin, which does the opposite of what this does.
+* Initial creation. Code inspired by the inner workings of the [Classic Editor Addon](https://wordpress.org/plugins/classic-editor-addon/) plugin.
 
 ## To Do
 
